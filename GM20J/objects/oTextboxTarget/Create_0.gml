@@ -1,0 +1,1 @@
+//insert an array to map out possible spawn points for dialogue boxes

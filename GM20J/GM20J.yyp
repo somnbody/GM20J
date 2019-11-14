@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0dd80664-bddc-466b-a973-a0c47615da36",
+            "Value": {
+                "id": "7ebfec25-813d-4c7a-8068-7639e3774c46",
+                "resourcePath": "objects\\oTextboxTarget\\oTextboxTarget.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e94ed8a-3aeb-46bf-b794-63396d0b5c92",
             "Value": {
                 "id": "751c6ad9-727a-4445-ad79-4fe5618f71d2",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "b7faf42c-e863-4c61-ab64-e97d07f952ee",
+            "Value": {
+                "id": "992c3263-d787-41f0-ab90-18d18d51775c",
+                "resourcePath": "sprites\\spr_por_samurfry\\spr_por_samurfry.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bf5dc9b7-80d4-45d2-aace-7096a990d2af",
             "Value": {
                 "id": "57781c0b-7fbb-4629-a538-c266b7c59692",
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "d114d186-1eb9-4e7d-8d7e-65250f20683a",
+            "Value": {
+                "id": "f9487ea3-ed4d-4d43-85a6-0bbce6c17d68",
+                "resourcePath": "objects\\obj_textbox\\obj_textbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d7b34050-e29c-4671-ad22-3da5e15d10a5",
             "Value": {
                 "id": "40f19e35-9ce0-4373-9524-db22d2f4ae37",
@@ -215,6 +239,22 @@
             }
         },
         {
+            "Key": "e90f9984-cecf-4964-b448-4ecabd6332c0",
+            "Value": {
+                "id": "61a697f0-ce0b-4468-aa9f-e852deb9025b",
+                "resourcePath": "scripts\\scr_InitializeDialogue\\scr_InitializeDialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef536942-2ae9-47a1-9dc4-c7e74687abb3",
+            "Value": {
+                "id": "bd5603f6-3a81-4042-87fd-b003c608acf9",
+                "resourcePath": "scripts\\scr_DrawDialogueBox\\scr_DrawDialogueBox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "5e316857-471c-4684-b20f-75d530a1bf44",
@@ -229,10 +269,19 @@
                 "resourcePath": "views\\fb2ce1fb-dde2-4542-bf7f-e1de9d93f02e.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ff827d0e-ba8f-4f85-9465-cf3257a4144a",
+            "Value": {
+                "id": "c46497dc-7871-469e-bbbb-cc2c937ffbc9",
+                "resourcePath": "sprites\\spr_textbox\\spr_textbox.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        
+        "e90f9984-cecf-4964-b448-4ecabd6332c0",
+        "ef536942-2ae9-47a1-9dc4-c7e74687abb3"
     ],
     "tutorial": ""
 }
