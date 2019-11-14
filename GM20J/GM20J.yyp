@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "08389312-b2aa-4cb9-b2ca-c799c8adcdc3",
+            "Value": {
+                "id": "1eddde54-ecbb-4b9a-997d-c47ca1e1462c",
+                "resourcePath": "objects\\oDialogue\\oDialogue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0dd680f5-e31e-4aea-b4a7-d7d782dd7224",
+            "Value": {
+                "id": "dfb9bc66-6d8f-46c7-b880-649d8232d39c",
+                "resourcePath": "sprites\\spr_camera\\spr_camera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e94ed8a-3aeb-46bf-b794-63396d0b5c92",
             "Value": {
                 "id": "751c6ad9-727a-4445-ad79-4fe5618f71d2",
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "cc65830c-b02f-464e-815a-80f0ef6e890d",
+            "Value": {
+                "id": "73b80e32-795d-4483-b476-0d33f295128b",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d9d04569-8b06-4e55-af8c-dd8ace4a0598",
@@ -172,6 +196,14 @@
                 "id": "40f19e35-9ce0-4373-9524-db22d2f4ae37",
                 "resourcePath": "views\\d7b34050-e29c-4671-ad22-3da5e15d10a5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7ee5ebe-a1e2-4a2c-b7ec-b1f7dd156fc7",
+            "Value": {
+                "id": "8fa89e7f-3b2f-4090-8cb8-2d1e8481648d",
+                "resourcePath": "objects\\oOoOo\\oOoOo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
