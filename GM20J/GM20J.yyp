@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0bfce1f6-5931-4cdd-9329-18dc5fe8f89b",
+            "Value": {
+                "id": "cb25c8af-d1ad-4e13-a067-6df6fea62200",
+                "resourcePath": "views\\0bfce1f6-5931-4cdd-9329-18dc5fe8f89b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0cbe56f1-49dc-4088-a98c-15833e676c59",
+            "Value": {
+                "id": "729f4ecd-f0fe-4bb5-8b35-b7730f7e55b4",
+                "resourcePath": "scripts\\convo_Sam_1\\convo_Sam_1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0dd680f5-e31e-4aea-b4a7-d7d782dd7224",
             "Value": {
                 "id": "dfb9bc66-6d8f-46c7-b880-649d8232d39c",
@@ -76,6 +92,22 @@
                 "id": "18b29dd7-2e04-44d2-a30e-abef320a9c19",
                 "resourcePath": "views\\16bbb2fd-160a-47dc-ac4a-27eeb630f66b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1804c683-c136-4597-b3cf-d65d16a7b003",
+            "Value": {
+                "id": "aab5695c-e979-4fb5-830b-2db435201bfe",
+                "resourcePath": "fonts\\fnt_Dialogue\\fnt_Dialogue.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3bf7a0e2-835f-4b26-bbc8-b494119f35d3",
+            "Value": {
+                "id": "12c89eb8-716a-4680-922c-335a7f0cf581",
+                "resourcePath": "scripts\\scr_displayConvoText\\scr_displayConvoText.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -123,6 +155,14 @@
             "Value": {
                 "id": "b8fdde26-2ed4-4267-b649-c0366f034238",
                 "resourcePath": "views\\71493580-b109-47ea-8195-5f82741bee9f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "752e43ec-5e1f-4938-9f68-6c26934f7cdf",
+            "Value": {
+                "id": "9283f158-1477-4df8-b821-2620a63207ef",
+                "resourcePath": "views\\752e43ec-5e1f-4938-9f68-6c26934f7cdf.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -247,6 +287,14 @@
             }
         },
         {
+            "Key": "ed90dae3-6157-4649-8a6d-19b2fdce8ef6",
+            "Value": {
+                "id": "1c4fea64-4043-48b7-b8fb-29eecd61c689",
+                "resourcePath": "scripts\\scr_AddDialogueLine\\scr_AddDialogueLine.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ef536942-2ae9-47a1-9dc4-c7e74687abb3",
             "Value": {
                 "id": "bd5603f6-3a81-4042-87fd-b003c608acf9",
@@ -280,8 +328,11 @@
         }
     ],
     "script_order": [
+        "ed90dae3-6157-4649-8a6d-19b2fdce8ef6",
+        "3bf7a0e2-835f-4b26-bbc8-b494119f35d3",
         "e90f9984-cecf-4964-b448-4ecabd6332c0",
-        "ef536942-2ae9-47a1-9dc4-c7e74687abb3"
+        "ef536942-2ae9-47a1-9dc4-c7e74687abb3",
+        "0cbe56f1-49dc-4088-a98c-15833e676c59"
     ],
     "tutorial": ""
 }
