@@ -37,4 +37,3 @@ spriteToDisplay = -1; //Avatar to display
 stringToDisplay = ""; //Convo line to display
 currCharIndex = 1; //Current Character index of string to apply to stringToDisplay
 
-	

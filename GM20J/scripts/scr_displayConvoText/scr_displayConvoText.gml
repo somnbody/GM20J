@@ -13,7 +13,10 @@ else
 		
 		if (convoIndex == convoDialogueCount)
 		{
+			level1_convo++;
 			active = false; 
+		
 		}
 	}
 }
+			
